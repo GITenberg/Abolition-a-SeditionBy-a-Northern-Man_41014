@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40934'
     url: http://www.gutenberg.org/2009/agents/40934
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41014#Abolition-a-SeditionBy-a-Northern-Man
 gutenberg_issued: '2012-10-10'
 gutenberg_type: Text
 identifiers:
